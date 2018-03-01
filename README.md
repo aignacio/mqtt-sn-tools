@@ -1,3 +1,7 @@
+@aignacio_warnings
+# Example of command for IPv6 RSMB:
+./mqtt-sn-pub -t "control/LED" -m "TESTE" -p 1884 -h aaaa::1
+
 MQTT-SN Tools
 =============
 
